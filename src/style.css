@@ -95,3 +95,19 @@ width: 100%;
     flex-direction: column;
     min-height: 100vh;
 }
+
+#showcase::content h2{
+    font-size: 7rem;
+    font-family: var(--righteous);
+    color: var(--whte_color);
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+#showcase::content h3{
+    font-size: 3rem;
+    font-family: var(--righteous);
+    color: var(--whte_color);
+    text-align: center;
+    letter-spacing: 2px;
+}
