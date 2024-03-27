@@ -57,7 +57,7 @@ a{
     content: "";
     position: absolute;
     height: 3px;
-    background: var(--primary-color);
+    background: var(--primary_color);
     width: 0;
     left: 0;
     top: 30px;
